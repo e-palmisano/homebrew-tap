@@ -1,6 +1,6 @@
 cask "vigil" do
   version "1.2.1"
-  sha256 "faa644d780347e239dac6a3654b9415fad1f08863140012ed4f74694112bd8c3"
+  sha256 "c856bd5992e64994c63fcef1c8799b5897086360171eb9c5da4177d699c18f8a"
 
   url "https://github.com/e-palmisano/Vigil/releases/download/v#{version}/Vigil-#{version}.dmg"
   name "Vigil"
